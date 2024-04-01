@@ -16,7 +16,7 @@ bokeh>=0.13.0
 scikit-learn
 matplotlib>=3.3.3
 torch==1.12.1
-torchvision==0.8.2
+torchvision==0.1.6
 yapf
 seaborn
 einops==0.3.2
